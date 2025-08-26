@@ -1,0 +1,5 @@
+C:\Users\vucuo\OneDrive\ドキュメント\GitHub\Learning_CSharp\b2_Variable\obj\Debug\net9.0\b2_Variable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vucuo\OneDrive\ドキュメント\GitHub\Learning_CSharp\b2_Variable\obj\Debug\net9.0\b2_Variable.AssemblyInfoInputs.cache
+C:\Users\vucuo\OneDrive\ドキュメント\GitHub\Learning_CSharp\b2_Variable\obj\Debug\net9.0\b2_Variable.AssemblyInfo.cs
+C:\Users\vucuo\OneDrive\ドキュメント\GitHub\Learning_CSharp\b2_Variable\obj\Debug\net9.0\b2_Variable.csproj.CoreCompileInputs.cache
+C:\Users\vucuo\OneDrive\ドキュメント\GitHub\Learning_CSharp\b2_Variable\obj\Debug\net9.0\b2_Variable.sourcelink.json

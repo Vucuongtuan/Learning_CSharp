@@ -1,0 +1,15 @@
+C:\Users\vucuo\OneDrive\ドキュメント\GitHub\Learning_CSharp\TopLevelStatement\bin\Debug\net9.0\TopLevelStatement.exe
+C:\Users\vucuo\OneDrive\ドキュメント\GitHub\Learning_CSharp\TopLevelStatement\bin\Debug\net9.0\TopLevelStatement.deps.json
+C:\Users\vucuo\OneDrive\ドキュメント\GitHub\Learning_CSharp\TopLevelStatement\bin\Debug\net9.0\TopLevelStatement.runtimeconfig.json
+C:\Users\vucuo\OneDrive\ドキュメント\GitHub\Learning_CSharp\TopLevelStatement\bin\Debug\net9.0\TopLevelStatement.dll
+C:\Users\vucuo\OneDrive\ドキュメント\GitHub\Learning_CSharp\TopLevelStatement\bin\Debug\net9.0\TopLevelStatement.pdb
+C:\Users\vucuo\OneDrive\ドキュメント\GitHub\Learning_CSharp\TopLevelStatement\obj\Debug\net9.0\TopLevelStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vucuo\OneDrive\ドキュメント\GitHub\Learning_CSharp\TopLevelStatement\obj\Debug\net9.0\TopLevelStatement.AssemblyInfoInputs.cache
+C:\Users\vucuo\OneDrive\ドキュメント\GitHub\Learning_CSharp\TopLevelStatement\obj\Debug\net9.0\TopLevelStatement.AssemblyInfo.cs
+C:\Users\vucuo\OneDrive\ドキュメント\GitHub\Learning_CSharp\TopLevelStatement\obj\Debug\net9.0\TopLevelStatement.csproj.CoreCompileInputs.cache
+C:\Users\vucuo\OneDrive\ドキュメント\GitHub\Learning_CSharp\TopLevelStatement\obj\Debug\net9.0\TopLevelStatement.sourcelink.json
+C:\Users\vucuo\OneDrive\ドキュメント\GitHub\Learning_CSharp\TopLevelStatement\obj\Debug\net9.0\TopLevelStatement.dll
+C:\Users\vucuo\OneDrive\ドキュメント\GitHub\Learning_CSharp\TopLevelStatement\obj\Debug\net9.0\refint\TopLevelStatement.dll
+C:\Users\vucuo\OneDrive\ドキュメント\GitHub\Learning_CSharp\TopLevelStatement\obj\Debug\net9.0\TopLevelStatement.pdb
+C:\Users\vucuo\OneDrive\ドキュメント\GitHub\Learning_CSharp\TopLevelStatement\obj\Debug\net9.0\TopLevelStatement.genruntimeconfig.cache
+C:\Users\vucuo\OneDrive\ドキュメント\GitHub\Learning_CSharp\TopLevelStatement\obj\Debug\net9.0\ref\TopLevelStatement.dll
