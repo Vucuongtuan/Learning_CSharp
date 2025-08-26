@@ -1,0 +1,15 @@
+C:\Users\vucuo\OneDrive\ドキュメント\GitHub\Learning_CSharp\b3_Array\obj\Debug\net9.0\b3_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vucuo\OneDrive\ドキュメント\GitHub\Learning_CSharp\b3_Array\obj\Debug\net9.0\b3_Array.AssemblyInfoInputs.cache
+C:\Users\vucuo\OneDrive\ドキュメント\GitHub\Learning_CSharp\b3_Array\obj\Debug\net9.0\b3_Array.AssemblyInfo.cs
+C:\Users\vucuo\OneDrive\ドキュメント\GitHub\Learning_CSharp\b3_Array\obj\Debug\net9.0\b3_Array.csproj.CoreCompileInputs.cache
+C:\Users\vucuo\OneDrive\ドキュメント\GitHub\Learning_CSharp\b3_Array\obj\Debug\net9.0\b3_Array.sourcelink.json
+C:\Users\vucuo\OneDrive\ドキュメント\GitHub\Learning_CSharp\b3_Array\bin\Debug\net9.0\b3_Array.exe
+C:\Users\vucuo\OneDrive\ドキュメント\GitHub\Learning_CSharp\b3_Array\bin\Debug\net9.0\b3_Array.deps.json
+C:\Users\vucuo\OneDrive\ドキュメント\GitHub\Learning_CSharp\b3_Array\bin\Debug\net9.0\b3_Array.runtimeconfig.json
+C:\Users\vucuo\OneDrive\ドキュメント\GitHub\Learning_CSharp\b3_Array\bin\Debug\net9.0\b3_Array.dll
+C:\Users\vucuo\OneDrive\ドキュメント\GitHub\Learning_CSharp\b3_Array\bin\Debug\net9.0\b3_Array.pdb
+C:\Users\vucuo\OneDrive\ドキュメント\GitHub\Learning_CSharp\b3_Array\obj\Debug\net9.0\b3_Array.dll
+C:\Users\vucuo\OneDrive\ドキュメント\GitHub\Learning_CSharp\b3_Array\obj\Debug\net9.0\refint\b3_Array.dll
+C:\Users\vucuo\OneDrive\ドキュメント\GitHub\Learning_CSharp\b3_Array\obj\Debug\net9.0\b3_Array.pdb
+C:\Users\vucuo\OneDrive\ドキュメント\GitHub\Learning_CSharp\b3_Array\obj\Debug\net9.0\b3_Array.genruntimeconfig.cache
+C:\Users\vucuo\OneDrive\ドキュメント\GitHub\Learning_CSharp\b3_Array\obj\Debug\net9.0\ref\b3_Array.dll
