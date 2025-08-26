@@ -1,48 +1,27 @@
-﻿// See https://aka.ms/new-console-template for more information
-// Old dotnet < .Net 6.0
-/*
- * 
-using System;
+// This file demonstrates C# 9 top-level statements.
+// The code runs directly without a Main method boilerplate.
 
-namespace AppName
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
-    }
-}
-
-*/
-
-// New dotnet >= .Net 6.0
+Console.WriteLine("Demonstrating top-level statements!");
 
 int a = 10;
 a = 2;
-a = 4;
+a = 4; // The final value of 'a' is 4.
 
-Console.WriteLine("Value : " + a);
+Console.WriteLine($"The final value of a is: {a}");
 
+// You can define and call methods from helper classes.
+Console.WriteLine(TestStatement.Test.StaticTest());
 
-Console.WriteLine("Hello World!");
-Console.WriteLine(testStatement.Test.StaticTest());
+// You can even return a value, which becomes the process exit code.
+return 0; // Return 0 to indicate successful execution.
 
-
-return 1;
-
-
-
-namespace testStatement
+namespace TestStatement
 {
-    class Test
+    public class Test
     {
         public static string StaticTest()
         {
-            return "StaticTest";
+            return "This is a call from a static method in a nested namespace.";
         }
     }
-
 }
-
